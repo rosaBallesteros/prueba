@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="textView8_String">BIENVENIDO</string>
+    <string name="textView6_String">USUARIO</string>
+    <string name="textView7_String">CONTRASEÑA</string>
+    <string name="txt_cedula_String"></string>
+    <string name="txt_contrasena_String"></string>
+    <string name="button_ingresar">INGRESAR</string>
+    <string name="button_registrar">REGISTRARSE</string>
+    <string name="datoCedula">Cedula</string>
+</resources>
